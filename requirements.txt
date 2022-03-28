@@ -1,0 +1,7 @@
+opencv
+torch==1.6.0
+torchvision==0.7.0
+x2paddle
+paddlepaddle==2.2.2
+onnx
+onnxruntime
